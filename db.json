@@ -14,5 +14,19 @@
       "time": "18:17:04.770114",
       "detail": "[1236a696-37b6-478e-b132-d11316e13f4c]   hogehoge"
     }]
-  }
+  },
+  "wips_grep": {
+    "status": "success",
+    "result": [{
+        "filename": "receive/20250327/INVHA1WINA.txt.202503271310.2wips",
+        "lines": [
+          "PO12345601999-12345678   ORD-99999999   XXXXXXXXXX          ANY          00012000122025032620250324   NGO20250401",
+          "PO12345601999-23456789   ORD-99999999   XXXXXXXXXX          ANY          00012000122025032620250324   NGO20250401"
+        ]
+    },{
+      "filename": "receive/20250327/RNSXXNAWI.txt.202503261310.2wips",
+      "lines": [
+        "PO12345601999-34567890   ORD-99999999   XXXXXXXXXX          ANY          00012000122025032620250324   NGO20250401"
+      ]
+    }]
 }
