@@ -17,6 +17,7 @@
   },
   "wips_grep": {
     "status": "success",
+    "message": "ファイル情報の取得に成功しました",
     "result": [{
         "filename": "receive/20250327/INVHA1WINA.txt.202503271310.2wips",
         "lines": [
